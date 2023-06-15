@@ -3,7 +3,7 @@ Um projeto de teste com um arquivo README 🚀
 
 <img src="./giphy.gif" alt="codando">
 
-## Tecnologias utilizadas!
+## Tecnologias utilizadas
 - HTML
 - CSS
 - JS
